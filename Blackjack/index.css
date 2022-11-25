@@ -1,0 +1,28 @@
+body {
+    background-image: url("greenBg.jpg");
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+h1{
+    color: rgb(168, 168, 57);
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(168, 168, 57);
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: rgb(236, 236, 136);
+}
